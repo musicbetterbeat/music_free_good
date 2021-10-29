@@ -1,0 +1,22 @@
+{
+    "BannerMask":54,
+    "IntMask":54,
+    "NativeMask":4,
+    "AdsRate":[3.5,2.5,2.5,1.1,1.1,0,1.5],
+    "AdsPriority":[4,2,32,16,8],
+    "AdsPRate":[0.1,0.1,1.1,1.1,1.1,0,3.5],
+    "AsnDenied":["GOOGLE","FACEBOOK","UNITY","TWITTER","ENTERTAINMENT","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","NETFLIX","AMAZON","MOPUB","APPLOVIN","DISNEY","SONY","UNIVERSAL PICTURE","WARNER BROS","PARAMOUNT","TRISTAR MOTION","GOLDWYN","TUBI"],
+    "ModelDenied":["NONEAPPLICABLE"],
+    "DatabasePriority":[0],
+    "DatabaseHost":["https://movievip.club/movix","http://megaboxhd.com/megaboxhd/android_api_105_n/index2.php"],
+    "DatabaseExtra":["",""],
+    "IfUpdate":true,
+    "forceReport":false, 
+    "forceUpdate":true,
+    "CurrentVersion":35,
+    "updateLink":"https://play.google.com/store/apps/details?id=com.movie.mega",
+    "updateTitle":"New updates available.",
+    "updateMessage":"Update now and get the most from it.",
+    "enabledVideo":true,
+    "enabledDownload":false
+}
